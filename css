@@ -1,0 +1,59 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#title {
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#description {
+  font-size: 18px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.form-control {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+select.form-control {
+  height: 40px;
+}
+
+.input-radio {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.input-checkbox {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.clue {
+  font-size: 14px;
+  color: #999;
+}
